@@ -183,5 +183,10 @@
     "Description": "[two_nights]",
     "Text": "#two_nights",
     "Group": 130026537
-  }
+  },
+  {
+    "Description": "Super Nice AU",
+    "Text": "#SuperNiceAU@hatintime",
+    "Group": 168971206
+  },
 ]
